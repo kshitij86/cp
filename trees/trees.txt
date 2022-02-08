@@ -1,0 +1,9 @@
+tree - acyclic graph with every edge is a cut edge and except leaf nodes, all nodes are cut vertices. it is a minimally connected graph.
+
+types of trees:
+
+1. full binary tree - each node has 0 or 2 children only
+2. complete binary tre - each level is filled completely except possibly the last, and that level is as left-filled as possible
+3. perfect binary tree - each leaf node is at the same level
+4. balanced binary tree - the height of the tree is at most log(n), where n is the number of nodes
+5. degenerate/skewed tree - it is a tree which grows in one direction only 
