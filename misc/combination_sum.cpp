@@ -5,7 +5,7 @@ using namespace std;
 
 void combination_sum(int ind, int sum_left, vector<int> &ds, int *arr, int n) {
 	//prints the ways in which a given sum can be made, contiguous or not
-
+	// each number can be used as many times as possible
 	if (ind == n) {
 		if (sum_left == 0) {
 			//if target is reached print everything in the data structure
