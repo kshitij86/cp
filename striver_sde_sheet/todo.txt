@@ -1,0 +1,3 @@
+1. next permutation(optimize)
+2. kadane
+3. rotate image
